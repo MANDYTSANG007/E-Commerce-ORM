@@ -8,11 +8,11 @@ router.get('/', (req, res) => {
   // be sure to include its associated Products
 try{
   const categoryData = await Category.findAll();
-  //console.log(categoryData);
+  console.log(categoryData);
   const categories = categoryData.map((category) => category.get({ plain: true}));
-  //console.log("categories", categories);
+  console.log("categories", categories);
   res.status(200).json(categoryData);
-  //console.log();
+  console.log();
 } catch(err) {
   res.status(500).json(err);
 }
