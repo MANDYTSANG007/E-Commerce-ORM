@@ -16,14 +16,14 @@ This application requires Node.js, Express.js, and Sequelize. Download the files
 
 ## Deployed Link
 
+* [Link to Video - Testing Using Insomnia Core](https://youtu.be/kNbR_jxXZFc)
+* [Link to Video - Terminal Demonstration](https://youtu.be/LwoQNOFQQyk)
 * [Link to Github](https://github.com/MANDYTSANG007/E-Commerce-ORM)
 
 ## Design Layout
 
-![alt text](#)
-![alt text](#)
-![alt text](#)
-
+![alt text](./images/Terminal-Demonstration.gif)
+![alt text](./images/Testing-in-Insomnia-Core.gif)
 
 ## Authors
 
