@@ -16,14 +16,18 @@ This application requires Node.js, Express.js, and Sequelize. Download the files
 
 ## Deployed Link
 
-* [Link to Video - Testing Using Insomnia Core](https://youtu.be/kNbR_jxXZFc)
+* [Link to Video - Testing GET Routes in Insomnia Core](https://youtu.be/LLAc2ftr-Ac)
+* [Link to Video - Testing GET Routes Single Items in Insomnia Core](https://youtu.be/v5Q9nr5VrU0)
+* [Link to Video - Testing POST, PUT, and DELETE routes in Insomnia Core](https://youtu.be/srMYPrpeWfo)
 * [Link to Video - Terminal Demonstration](https://youtu.be/LwoQNOFQQyk)
 * [Link to Github](https://github.com/MANDYTSANG007/E-Commerce-ORM)
 
 ## Design Layout
 
 ![alt text](./images/Terminal-Demonstration.gif)
-![alt text](./images/Testing-in-Insomnia-Core.gif)
+![alt text](./images/Testing-GET-Routes.gif)
+![alt text](./images/Testing-GET-Routes-Single-Item.gif)
+![alt text](./images/Testing-POST-PUT-DELETE-Routes.gif)
 
 ## Authors
 
