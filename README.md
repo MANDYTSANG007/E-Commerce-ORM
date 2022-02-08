@@ -24,9 +24,16 @@ This application requires Node.js, Express.js, and Sequelize. Download the files
 
 ## Design Layout
 
+The following .gif shows how to create the schema from the MySQL shell, how to seed the database from the command line, and how to start the application's server: 
 ![alt text](./images/Terminal-Demonstration.gif)
+
+The following .gif shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 ![alt text](./images/Testing-GET-Routes.gif)
+
+The following .gif shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
 ![alt text](./images/Testing-GET-Routes-Single-Item.gif)
+
+The following .gif shows the application's POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core:
 ![alt text](./images/Testing-POST-PUT-DELETE-Routes.gif)
 
 ## Authors
