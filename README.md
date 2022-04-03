@@ -39,9 +39,7 @@ The following .gif shows the application's GET routes to return a single categor
 ![alt text](./images/Testing-GET-Routes-Single-Item.gif)
 
 
-The following .gif shows the application's POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core:
-
-![alt text](./images/Testing-POST-PUT-DELETE-Routes.gif)
+POST, PUT, and DELETE routes for categories, products, and tags were tested in Insomnia Core.
 
 
 ## Authors
