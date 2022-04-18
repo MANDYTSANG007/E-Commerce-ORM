@@ -44,7 +44,7 @@ POST, PUT, and DELETE routes for categories, products, and tags were tested in I
 
 ## Authors
 
-* **Mandy Tsang** 
+**Mandy Tsang** 
 
 - [Portfolio](https://mandytsang007.github.io/new-portfolio/)
 - [Github](https://github.com/MANDYTSANG007)
