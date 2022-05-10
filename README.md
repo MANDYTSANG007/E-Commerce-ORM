@@ -8,7 +8,7 @@ This application requires Node.js, Express.js, and Sequelize. Download the files
 
 ## Built With
 
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Node.js](https://nodejs.org/en/)
 * [Express](https://expressjs.com)
 * [MySQL](https://www.mysql.com)
