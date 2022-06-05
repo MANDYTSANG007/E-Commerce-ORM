@@ -4,7 +4,7 @@ E-Commerce ORM application is set up using an Object Relational Mapping framewor
 
 ## Getting Started
 
-This application requires Node.js, Express.js, and Sequelize. Download the files and install dependencies. On terminal, run "mysql -u root -p". To seed data to your database, run npm run seed. 
+This application requires Node.js, Express.js, and Sequelize. Download the files and install dependencies. On terminal, run "mysql -u root -p". To seed data to your database, use npm run seed. 
 
 ## Built With
 
