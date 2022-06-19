@@ -1,6 +1,6 @@
 # E-Commerce-ORM
 
-E-Commerce ORM application is set up using an Object Relational Mapping framework that many E-commerce platforms are widely implementing. This back end e-commerce site has been configured with Express.js API and Sequelize to interact with a MySQL database.
+E-Commerce ORM application uses an Object Relational Mapping framework that many E-commerce platforms are widely implementing. This back end e-commerce site has been configured with Express.js API and Sequelize to interact with a MySQL database.
 
 ## Getting Started
 
