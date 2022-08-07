@@ -46,9 +46,8 @@ POST, PUT, and DELETE routes for categories, products, and tags were tested in I
 
 **Mandy Tsang** 
 
-- [Portfolio](https://mandytsang007.github.io/new-portfolio/)
+- [Portfolio](https://mandytsang007.github.io/mt-portfolio/)
 - [Github](https://github.com/MANDYTSANG007)
-- [LinkedIn](https://www.linkedin.com/in/man-tsang-64308b22a/)
 
 
 ## License
